@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\Guia4ListaAlumnos\Guia4ListaAlumnos\bin\Debug\net8.0\Guia4ListaAlumnos.exe
+C:\Users\HP\source\repos\Guia4ListaAlumnos\Guia4ListaAlumnos\bin\Debug\net8.0\Guia4ListaAlumnos.deps.json
+C:\Users\HP\source\repos\Guia4ListaAlumnos\Guia4ListaAlumnos\bin\Debug\net8.0\Guia4ListaAlumnos.runtimeconfig.json
+C:\Users\HP\source\repos\Guia4ListaAlumnos\Guia4ListaAlumnos\bin\Debug\net8.0\Guia4ListaAlumnos.dll
+C:\Users\HP\source\repos\Guia4ListaAlumnos\Guia4ListaAlumnos\bin\Debug\net8.0\Guia4ListaAlumnos.pdb
+C:\Users\HP\source\repos\Guia4ListaAlumnos\Guia4ListaAlumnos\obj\Debug\net8.0\Guia4ListaAlumnos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Guia4ListaAlumnos\Guia4ListaAlumnos\obj\Debug\net8.0\Guia4ListaAlumnos.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Guia4ListaAlumnos\Guia4ListaAlumnos\obj\Debug\net8.0\Guia4ListaAlumnos.AssemblyInfo.cs
+C:\Users\HP\source\repos\Guia4ListaAlumnos\Guia4ListaAlumnos\obj\Debug\net8.0\Guia4ListaAlumnos.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Guia4ListaAlumnos\Guia4ListaAlumnos\obj\Debug\net8.0\Guia4ListaAlumnos.dll
+C:\Users\HP\source\repos\Guia4ListaAlumnos\Guia4ListaAlumnos\obj\Debug\net8.0\refint\Guia4ListaAlumnos.dll
+C:\Users\HP\source\repos\Guia4ListaAlumnos\Guia4ListaAlumnos\obj\Debug\net8.0\Guia4ListaAlumnos.pdb
+C:\Users\HP\source\repos\Guia4ListaAlumnos\Guia4ListaAlumnos\obj\Debug\net8.0\Guia4ListaAlumnos.genruntimeconfig.cache
+C:\Users\HP\source\repos\Guia4ListaAlumnos\Guia4ListaAlumnos\obj\Debug\net8.0\ref\Guia4ListaAlumnos.dll
